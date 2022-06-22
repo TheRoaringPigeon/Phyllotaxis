@@ -1,7 +1,7 @@
 # Phyllotaxis
 Fun with algorithmic botany
 
-Interact with the code here: https://editor.p5js.org/RoaringPigeon/full/WOb-EuMpC
+Interact with the JavaScript version here: https://editor.p5js.org/RoaringPigeon/full/WOb-EuMpC
 
 Based on the math from this article:https://www.princeton.edu/~akosmrlj/MAE545_S2017/lecture12_slides.pdf
 
